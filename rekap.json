@@ -1,0 +1,1401 @@
+{
+    "MI": {
+        "data": {
+            "171111116": {
+                "nama": "AGUS SULAKSONO",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -6
+            },
+            "171111117": {
+                "nama": "FERY EKA MAHENDRA",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171221001": {
+                "nama": "MOHAMMAD FANDRIYAN",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 12,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171221002": {
+                "nama": "SISWO AJI PRATAMA",
+                "pretest": 10,
+                "ikutPretest": true,
+                "posttest": 15,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171221003": {
+                "nama": "MOH AINUR ROSYID",
+                "pretest": 5,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -5
+            },
+            "171221004": {
+                "nama": "ARISTI INTAN PRATIWI",
+                "pretest": 20,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171221005": {
+                "nama": "IMELDA DWI ZEN",
+                "pretest": 18,
+                "ikutPretest": true,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171221006": {
+                "nama": "FATKHUR ROHMAN",
+                "pretest": 3,
+                "ikutPretest": true,
+                "posttest": 7,
+                "ikutPosttest": true,
+                "kenaikan": 4
+            },
+            "171221007": {
+                "nama": "BAHARUDIN MUKTI WIDJAYA",
+                "pretest": 24,
+                "ikutPretest": true,
+                "posttest": 28,
+                "ikutPosttest": true,
+                "kenaikan": 4
+            },
+            "171221008": {
+                "nama": "SADHANA DEWI SHARASWATI",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 16
+            },
+            "171221009": {
+                "nama": "AHMAD FIRMANSYAH CANDRA PUTRA",
+                "pretest": 24,
+                "ikutPretest": true,
+                "posttest": 26,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171221010": {
+                "nama": "SAFITRI DWI ANGGRAINI",
+                "pretest": 23,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171221011": {
+                "nama": "AVA UMMA ASSA'AH",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 12,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171221012": {
+                "nama": "EDOARDUS BINTANG",
+                "pretest": 5,
+                "ikutPretest": true,
+                "posttest": 10,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171221013": {
+                "nama": "MUHAMMAD YUAND AFIANSYAH",
+                "pretest": 16,
+                "ikutPretest": true,
+                "posttest": 28,
+                "ikutPosttest": true,
+                "kenaikan": 12
+            },
+            "171221014": {
+                "nama": "MATILDA ORA",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 14,
+                "ikutPosttest": true,
+                "kenaikan": 14
+            }
+        },
+        "pretest": {
+            "min": 0,
+            "max": 24,
+            "avg": 11.4375,
+            "sum": 183,
+            "stdev": 2.953149801483155
+        },
+        "posttest": {
+            "min": 0,
+            "max": 28,
+            "avg": 16.125,
+            "sum": 258,
+            "stdev": 0.5486726407127174
+        },
+        "kenaikan": {
+            "min": -6,
+            "max": 16,
+            "avg": 4.6875,
+            "sum": 75,
+            "stdev": 2.404477160770438
+        }
+    },
+    "SI": {
+        "data": {
+            "171131002": {
+                "nama": "RIZKY SATRIO WIBOWO",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 4
+            },
+            "171131004": {
+                "nama": "FAHRUL RUZI",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 14,
+                "ikutPosttest": true,
+                "kenaikan": 8
+            },
+            "171131005": {
+                "nama": "MUHAMMAD CHOIRUL PUTRA PRATAMA",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171131006": {
+                "nama": "GRACIA STEFY ANGELA MASTERIN",
+                "pretest": 7,
+                "ikutPretest": true,
+                "posttest": 14,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171131007": {
+                "nama": "WILDAN SYAHRUL RAMADHAN",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 28,
+                "ikutPosttest": true,
+                "kenaikan": 11
+            },
+            "171131008": {
+                "nama": "ANISA NURUL MUSDALIFAH",
+                "pretest": 5,
+                "ikutPretest": true,
+                "posttest": 11,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171131009": {
+                "nama": "YOSIA ADITYA BUDIARTO",
+                "pretest": 10,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 10
+            },
+            "171131010": {
+                "nama": "KUKUH PRAKOSO",
+                "pretest": 3,
+                "ikutPretest": true,
+                "posttest": 18,
+                "ikutPosttest": true,
+                "kenaikan": 15
+            },
+            "171131011": {
+                "nama": "RICKO HARDIANTO",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 10
+            },
+            "171131013": {
+                "nama": "MUHAMAD ZARKASI NUR",
+                "pretest": 13,
+                "ikutPretest": true,
+                "posttest": 17,
+                "ikutPosttest": true,
+                "kenaikan": 4
+            },
+            "171131014": {
+                "nama": "MUHAMMAD ZARKASI NUR",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 20
+            },
+            "171131015": {
+                "nama": "MUHAMMAD WILDAN FERDIANSYAH",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 15,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171131016": {
+                "nama": "FANO GILANG BHAGASKARA",
+                "pretest": 13,
+                "ikutPretest": true,
+                "posttest": 18,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171131017": {
+                "nama": "MUHAMAD FAZDOL",
+                "pretest": 7,
+                "ikutPretest": true,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 12
+            },
+            "171131018": {
+                "nama": "NAVIEN WANDA MASHUDA",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 18,
+                "ikutPosttest": true,
+                "kenaikan": 10
+            },
+            "171131019": {
+                "nama": "RAKA PANDU BIANTAMA",
+                "pretest": 5,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -5
+            },
+            "171171001": {
+                "nama": "WILFRIDUSOKTAMIRANUGRAHA",
+                "pretest": 18,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "@0.707323509263883": {
+                "nama": "ADIT AGUNG DERMAWANSYAH",
+                "pretest": 10,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -10
+            },
+            "@0.07449487112178055": {
+                "nama": "AN NAJACH IHZA IBNU ARIF",
+                "pretest": 13,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -13
+            },
+            "040016": {
+                "nama": "ANONYMOUS",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 21,
+                "ikutPosttest": true,
+                "kenaikan": 21
+            }
+        },
+        "pretest": {
+            "min": 0,
+            "max": 18,
+            "avg": 8.95,
+            "sum": 179,
+            "stdev": 2.053270818141528
+        },
+        "posttest": {
+            "min": 0,
+            "max": 28,
+            "avg": 15.75,
+            "sum": 315,
+            "stdev": 1.2044326028204493
+        },
+        "kenaikan": {
+            "min": -13,
+            "max": 21,
+            "avg": 6.8,
+            "sum": 136,
+            "stdev": 3.2577034209619766
+        }
+    },
+    "TI A": {
+        "data": {
+            "17111003": {
+                "nama": "DANIEL HADINATA ADMOJO",
+                "pretest": 23,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -23
+            },
+            "171111001": {
+                "nama": "THOMAS KRISTANTO WIJAYA",
+                "pretest": 22,
+                "ikutPretest": true,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 0
+            },
+            "171111003": {
+                "nama": "DANIEL HADINATA ADMOJO",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 22
+            },
+            "171111004": {
+                "nama": "DIAZ SEPTYAN RIZKI",
+                "pretest": 24,
+                "ikutPretest": true,
+                "posttest": 24,
+                "ikutPosttest": true,
+                "kenaikan": 0
+            },
+            "171111005": {
+                "nama": "FERNANDA ALVIANSYAH SUDRAJAT",
+                "pretest": 26,
+                "ikutPretest": true,
+                "posttest": 27,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171111006": {
+                "nama": "YUDISTIRA WHENDRA ARDI NUGRAHA PUTRA",
+                "pretest": 21,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 4
+            },
+            "171111008": {
+                "nama": "TEOFILUS JODI SAPUTRA",
+                "pretest": 25,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 0
+            },
+            "171111009": {
+                "nama": "SUPIANUR",
+                "pretest": 25,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 0
+            },
+            "171111010": {
+                "nama": "STEFANUS SALEM",
+                "pretest": 21,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111011": {
+                "nama": "SHANIA SARASWATI",
+                "pretest": 22,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171111013": {
+                "nama": "YULIAN NOOR SHOLIHIN",
+                "pretest": 10,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 10
+            },
+            "171111014": {
+                "nama": "M.BAGUS SETIAWAN",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 19
+            },
+            "171111016": {
+                "nama": "MOHAMMAD IQBAL FAUZI",
+                "pretest": 24,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": -1
+            },
+            "171111017": {
+                "nama": "MUHAMMAD ADE IKHSAN",
+                "pretest": 19,
+                "ikutPretest": true,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111018": {
+                "nama": "AMIN RAMA FIRDAUS",
+                "pretest": 28,
+                "ikutPretest": true,
+                "posttest": 27,
+                "ikutPosttest": true,
+                "kenaikan": -1
+            },
+            "171111019": {
+                "nama": "RHEZA CHANDRA KURNIAWAN",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111020": {
+                "nama": "ADE RAMADHANA PRATAMA",
+                "pretest": 23,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111021": {
+                "nama": "FRANSISCUS ISSER WILLY REZA",
+                "pretest": 11,
+                "ikutPretest": true,
+                "posttest": 18,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171111022": {
+                "nama": "SUHENDRA",
+                "pretest": 23,
+                "ikutPretest": true,
+                "posttest": 24,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171111023": {
+                "nama": "PANJI IMAN BASKORO",
+                "pretest": 26,
+                "ikutPretest": true,
+                "posttest": 24,
+                "ikutPosttest": true,
+                "kenaikan": -2
+            },
+            "1711110012": {
+                "nama": "FRANSISKUS HANDIKA PUTRA",
+                "pretest": 19,
+                "ikutPretest": true,
+                "posttest": 21,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "@0.8725856327424091": {
+                "nama": "",
+                "pretest": 0,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": 0
+            }
+        },
+        "pretest": {
+            "min": 0,
+            "max": 28,
+            "avg": 18.59090909090909,
+            "sum": 409,
+            "stdev": 4.056868959387312
+        },
+        "posttest": {
+            "min": 0,
+            "max": 27,
+            "avg": 20.818181818181817,
+            "sum": 458,
+            "stdev": 4.542899714912933
+        },
+        "kenaikan": {
+            "min": -23,
+            "max": 22,
+            "avg": 2.227272727272727,
+            "sum": 49,
+            "stdev": 0.48603075552561936
+        }
+    },
+    "TI B": {
+        "data": {
+            "17111035": {
+                "nama": "DANA PRISMA WIJAYADI",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 16
+            },
+            "17111137": {
+                "nama": "HENDRY ANGGONO",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 23
+            },
+            "171111025": {
+                "nama": "MUHAMMAD SYAHRIL ALIFI",
+                "pretest": 14,
+                "ikutPretest": true,
+                "posttest": 11,
+                "ikutPosttest": true,
+                "kenaikan": -3
+            },
+            "171111027": {
+                "nama": "MOHAMMAD NUR ALI FURQON",
+                "pretest": 12,
+                "ikutPretest": true,
+                "posttest": 14,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111028": {
+                "nama": "RIFDA AMMARINA KARSITA",
+                "pretest": 12,
+                "ikutPretest": true,
+                "posttest": 15,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111029": {
+                "nama": "NATANIEL DAVID TEKTANTO",
+                "pretest": 25,
+                "ikutPretest": true,
+                "posttest": 27,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111030": {
+                "nama": "M.YUSRIL",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 3,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111031": {
+                "nama": "VARELL FAUZAN WIDYATAMAKA",
+                "pretest": 13,
+                "ikutPretest": true,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111032": {
+                "nama": "ARIYA DJAYANTO",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 17,
+                "ikutPosttest": true,
+                "kenaikan": 9
+            },
+            "171111034": {
+                "nama": "RIZKY GALUH DEWANTARA",
+                "pretest": 19,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171111035": {
+                "nama": "DANA PRISMA WIJAYADI",
+                "pretest": 11,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -11
+            },
+            "171111036": {
+                "nama": "NURAMI NASRULLAH",
+                "pretest": 19,
+                "ikutPretest": true,
+                "posttest": 15,
+                "ikutPosttest": true,
+                "kenaikan": -4
+            },
+            "171111037": {
+                "nama": "HENDRY ANGGONO",
+                "pretest": 20,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -20
+            },
+            "171111038": {
+                "nama": "ALDINO WILDHAN KURNIAWAN",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111039": {
+                "nama": "YOHANES BABTISTO SIKI",
+                "pretest": 3,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -3
+            },
+            "171111040": {
+                "nama": "RISKY FERYANSYAH PRIBADI",
+                "pretest": 26,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": -1
+            },
+            "171111041": {
+                "nama": "ACHMAD RIYAN ADI PURWANTO",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 7,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171111042": {
+                "nama": "TRIOKURNIAWAN",
+                "pretest": 4,
+                "ikutPretest": true,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 18
+            },
+            "171111043": {
+                "nama": "I MADE RAMA PRATAMA",
+                "pretest": 19,
+                "ikutPretest": true,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111044": {
+                "nama": "ERIK WAHYU SAPUTRO",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": -1
+            },
+            "171111045": {
+                "nama": "TITO AINURRAKHMAN",
+                "pretest": 22,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111046": {
+                "nama": "TEUKU RIONALDI SYAHPUTRA",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171111108": {
+                "nama": " DENYKUSUMASETYO NUGROHO",
+                "pretest": 16,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -16
+            },
+            "@0.2606869185559635": {
+                "nama": "DANU KUNCORO AJI",
+                "pretest": 25,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -25
+            }
+        },
+        "pretest": {
+            "min": 0,
+            "max": 26,
+            "avg": 13.458333333333334,
+            "sum": 323,
+            "stdev": 2.406603862242071
+        },
+        "posttest": {
+            "min": 0,
+            "max": 27,
+            "avg": 14.041666666666666,
+            "sum": 337,
+            "stdev": 2.927889897384758
+        },
+        "kenaikan": {
+            "min": -25,
+            "max": 23,
+            "avg": 0.5833333333333334,
+            "sum": 14,
+            "stdev": 5.334493759626829
+        }
+    },
+    "TI C": {
+        "data": {
+            "17111063": {
+                "nama": "TIO WIGI UTOMO",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -6
+            },
+            "171111047": {
+                "nama": "VICTORIA LUNA TERANG LOTUSSA",
+                "pretest": 22,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -22
+            },
+            "171111048": {
+                "nama": "SHERLY BRELINDA HARISNA NOVA",
+                "pretest": 16,
+                "ikutPretest": true,
+                "posttest": 11,
+                "ikutPosttest": true,
+                "kenaikan": -5
+            },
+            "171111049": {
+                "nama": "DAFFA ZULKANANTA",
+                "pretest": 14,
+                "ikutPretest": true,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111050": {
+                "nama": "MUHAMMAD ALAM WAHYUDI",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111051": {
+                "nama": "MUHAMMAD IRFAN SYARIFUDDIN",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171111052": {
+                "nama": "MOHAMMAD ANDY SAMPURNO",
+                "pretest": 10,
+                "ikutPretest": true,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 9
+            },
+            "171111053": {
+                "nama": "ENDARTA SYAFI'I",
+                "pretest": 11,
+                "ikutPretest": true,
+                "posttest": 14,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111054": {
+                "nama": "RULLY ANGGRAENI EGA PERTIWI",
+                "pretest": 9,
+                "ikutPretest": true,
+                "posttest": 15,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111055": {
+                "nama": "MOHAMMAD FAJAR",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111056": {
+                "nama": "HENDY RANA DHANY ",
+                "pretest": 12,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 8
+            },
+            "171111057": {
+                "nama": "RUSMADETA OKTA NUGRAHA",
+                "pretest": 12,
+                "ikutPretest": true,
+                "posttest": 18,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111058": {
+                "nama": "AGUS ALFREDO",
+                "pretest": 10,
+                "ikutPretest": true,
+                "posttest": 15,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171111059": {
+                "nama": "PRADIPTA RAMADAN SANDRI",
+                "pretest": 23,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111060": {
+                "nama": "FIERDA STEPHEN",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 27,
+                "ikutPosttest": true,
+                "kenaikan": 10
+            },
+            "171111061": {
+                "nama": "NOVERENSIA MARGARETA EVA DEO",
+                "pretest": 12,
+                "ikutPretest": true,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171111062": {
+                "nama": "RYAN CANDRA SUGIANTO",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 17,
+                "ikutPosttest": true,
+                "kenaikan": 9
+            },
+            "171111064": {
+                "nama": "ANGGORO YUDISTIRA PUTRA",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111065": {
+                "nama": "EKA NOVITA CHRISTIN",
+                "pretest": 26,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": -1
+            },
+            "171111066": {
+                "nama": "EKA AGUSTINA PRATIWI",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171111067": {
+                "nama": "ANGGORO YUDISTIRA PUTRA",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 19,
+                "ikutPosttest": true,
+                "kenaikan": 19
+            },
+            "171111068": {
+                "nama": "SUTAN ARIF PAMBUDI",
+                "pretest": 16,
+                "ikutPretest": true,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111069": {
+                "nama": "QORI HIDAYATULLOH",
+                "pretest": 22,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -22
+            },
+            "HIDAYATULLOH": {
+                "nama": "QORI",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 26,
+                "ikutPosttest": true,
+                "kenaikan": 26
+            }
+        },
+        "pretest": {
+            "min": 0,
+            "max": 26,
+            "avg": 13.625,
+            "sum": 327,
+            "stdev": 2.8410088915276437
+        },
+        "posttest": {
+            "min": 0,
+            "max": 27,
+            "avg": 17.041666666666668,
+            "sum": 409,
+            "stdev": 1.867941625927961
+        },
+        "kenaikan": {
+            "min": -22,
+            "max": 26,
+            "avg": 3.4166666666666665,
+            "sum": 82,
+            "stdev": 4.708950517455605
+        }
+    },
+    "TI D": {
+        "data": {
+            "12345": {
+                "nama": "JOHAN",
+                "pretest": 2,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -2
+            },
+            "111171076": {
+                "nama": "RONALD ARRIVAL FAJAR",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 24,
+                "ikutPosttest": true,
+                "kenaikan": 24
+            },
+            "171111070": {
+                "nama": "STEFANO ZAGHALLO SANDAH",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 10
+            },
+            "171111071": {
+                "nama": "STEVEN LEONARD ANGGORO",
+                "pretest": 20,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111072": {
+                "nama": "CANDRA EXSA PERDANA",
+                "pretest": 12,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -12
+            },
+            "171111073": {
+                "nama": "VARIAN GRADIANTA SUDIRMAN PUTRA",
+                "pretest": 16,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 9
+            },
+            "171111074": {
+                "nama": "YORDAN ALYUDHA ARDHANTA PUTRA",
+                "pretest": 14,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111075": {
+                "nama": "MOCH. ALVIAN FERNANDA",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": 22
+            },
+            "171111076": {
+                "nama": "RONALD ARRIVAL FAJAR",
+                "pretest": 25,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -25
+            },
+            "171111077": {
+                "nama": "MONICA TIFANI ZAHARA",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 14,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111078": {
+                "nama": "MAHSA SAVIRA BERLIANTI PUTRI",
+                "pretest": 14,
+                "ikutPretest": true,
+                "posttest": 15,
+                "ikutPosttest": true,
+                "kenaikan": 1
+            },
+            "171111079": {
+                "nama": "MUHAMMAD REYHAN FIRNAS ADANI",
+                "pretest": 27,
+                "ikutPretest": true,
+                "posttest": 29,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111080": {
+                "nama": "RANDIKA MUHAMMAD RIZKI",
+                "pretest": 14,
+                "ikutPretest": true,
+                "posttest": 17,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111081": {
+                "nama": "ANDANG WISNU SEPTIAN",
+                "pretest": 13,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -13
+            },
+            "171111082": {
+                "nama": "HAFZI JAVIER BAGAS PRASETYA",
+                "pretest": 22,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": -2
+            },
+            "171111083": {
+                "nama": "AQIL KURNIANTO",
+                "pretest": 11,
+                "ikutPretest": true,
+                "posttest": 13,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111084": {
+                "nama": "MOCHAMMAD LUQMAN AL ARIF",
+                "pretest": 10,
+                "ikutPretest": true,
+                "posttest": 17,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171111085": {
+                "nama": "WENI TRI SETYA",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 17,
+                "ikutPosttest": true,
+                "kenaikan": 0
+            },
+            "171111086": {
+                "nama": "RISKY DEWANTARA",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 13,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171111087": {
+                "nama": "BILLY ANDREANTO SUTIKNO",
+                "pretest": 16,
+                "ikutPretest": true,
+                "posttest": 21,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171111088": {
+                "nama": "HERMAWAN PRASETYO",
+                "pretest": 21,
+                "ikutPretest": true,
+                "posttest": 24,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111089": {
+                "nama": "ASYURA AL HUSEIN MUHAMMAD AL MAHDI",
+                "pretest": 23,
+                "ikutPretest": true,
+                "posttest": 22,
+                "ikutPosttest": true,
+                "kenaikan": -1
+            },
+            "171111090": {
+                "nama": "FERIANSYAH PRIYATAMA ARSYID",
+                "pretest": 11,
+                "ikutPretest": true,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171111091": {
+                "nama": "ALDO NAUFAL AKBAR",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 13,
+                "ikutPosttest": true,
+                "kenaikan": 13
+            },
+            "171111092": {
+                "nama": "RAMA WAHYUDANI ARIFIN",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 11,
+                "ikutPosttest": true,
+                "kenaikan": 11
+            },
+            "@0.5945012886530512": {
+                "nama": "CANDRA EXSA",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 16
+            }
+        },
+        "pretest": {
+            "min": 0,
+            "max": 27,
+            "avg": 12.26923076923077,
+            "sum": 319,
+            "stdev": 2.453846153846154
+        },
+        "posttest": {
+            "min": 0,
+            "max": 29,
+            "avg": 16.03846153846154,
+            "sum": 417,
+            "stdev": 0.007692307692308021
+        },
+        "kenaikan": {
+            "min": -25,
+            "max": 24,
+            "avg": 3.769230769230769,
+            "sum": 98,
+            "stdev": 2.446153846153846
+        }
+    },
+    "TI E": {
+        "data": {
+            "171111093": {
+                "nama": "FIKRIANSYAH DAVA AGUSTYAR",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 8
+            },
+            "171111094": {
+                "nama": "ADITYA FADJAR GRAZIA",
+                "pretest": 20,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 3
+            },
+            "171111095": {
+                "nama": "DEWI AZIZAH SATYARINI SUGIONO",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 8
+            },
+            "171111096": {
+                "nama": "SATRIO AJI SISWANTO PUTRO",
+                "pretest": 17,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111098": {
+                "nama": "CHOIRUL ANAM",
+                "pretest": 11,
+                "ikutPretest": true,
+                "posttest": 11,
+                "ikutPosttest": true,
+                "kenaikan": 0
+            },
+            "171111099": {
+                "nama": "ACHMAT FIRMANSYAH ALIMUDIN",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 20,
+                "ikutPosttest": true,
+                "kenaikan": 12
+            },
+            "171111101": {
+                "nama": "ALFIAN AZIS",
+                "pretest": 25,
+                "ikutPretest": true,
+                "posttest": 27,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111102": {
+                "nama": "M HAFIDZ AGUNG MABRURY",
+                "pretest": 6,
+                "ikutPretest": true,
+                "posttest": 13,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171111103": {
+                "nama": "QORIE' INSYIRA FITRIA",
+                "pretest": 16,
+                "ikutPretest": true,
+                "posttest": 27,
+                "ikutPosttest": true,
+                "kenaikan": 11
+            },
+            "171111104": {
+                "nama": "WILDHAN IRKHAM ILHAMSYAH",
+                "pretest": 24,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -24
+            },
+            "171111106": {
+                "nama": "MUHAMMAD SYAHRIDAL ARIADI",
+                "pretest": 8,
+                "ikutPretest": true,
+                "posttest": 14,
+                "ikutPosttest": true,
+                "kenaikan": 6
+            },
+            "171111107": {
+                "nama": "SALMAN ALFARISI",
+                "pretest": 9,
+                "ikutPretest": true,
+                "posttest": 18,
+                "ikutPosttest": true,
+                "kenaikan": 9
+            },
+            "171111109": {
+                "nama": "NANDA BIMA MAHENDRA",
+                "pretest": 27,
+                "ikutPretest": true,
+                "posttest": 29,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "171111110": {
+                "nama": "MELANAUMI APRIZA FAHIRA SA'I",
+                "pretest": 18,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 7
+            },
+            "171111111": {
+                "nama": "GILANG ZAKARIA PUTRA",
+                "pretest": 20,
+                "ikutPretest": true,
+                "posttest": 24,
+                "ikutPosttest": true,
+                "kenaikan": 4
+            },
+            "171111112": {
+                "nama": "AHMAD MASRUD MUBAROK",
+                "pretest": 18,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 5
+            },
+            "171111113": {
+                "nama": "LOVIAN CANDRA GUMILAR",
+                "pretest": 9,
+                "ikutPretest": true,
+                "posttest": 0,
+                "ikutPosttest": false,
+                "kenaikan": -9
+            },
+            "171111114": {
+                "nama": "MARSELIANUS HERDIAN SETYANUGRAHA",
+                "pretest": 21,
+                "ikutPretest": true,
+                "posttest": 25,
+                "ikutPosttest": true,
+                "kenaikan": 4
+            },
+            "171111115": {
+                "nama": "TITANIA TARA SWASTIKA",
+                "pretest": 15,
+                "ikutPretest": true,
+                "posttest": 23,
+                "ikutPosttest": true,
+                "kenaikan": 8
+            },
+            "1711110100": {
+                "nama": "ION PURNAMA SUTRI",
+                "pretest": 14,
+                "ikutPretest": true,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 2
+            },
+            "@0.5708655401595082": {
+                "nama": "",
+                "pretest": 0,
+                "ikutPretest": false,
+                "posttest": 16,
+                "ikutPosttest": true,
+                "kenaikan": 16
+            }
+        },
+        "pretest": {
+            "min": 0,
+            "max": 27,
+            "avg": 15.047619047619047,
+            "sum": 316,
+            "stdev": 3.3647499089996833
+        },
+        "posttest": {
+            "min": 0,
+            "max": 29,
+            "avg": 19.19047619047619,
+            "sum": 403,
+            "stdev": 0.7134121642499327
+        },
+        "kenaikan": {
+            "min": -24,
+            "max": 16,
+            "avg": 4.142857142857143,
+            "sum": 87,
+            "stdev": 2.6513377447497506
+        }
+    }
+}
